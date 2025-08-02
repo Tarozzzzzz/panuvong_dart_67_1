@@ -1,17 +1,17 @@
-// Enum
+// // Enum
 
-enum Status { pending, approved, rejected }
+// enum Status { pending, approved, rejected }
 
-void main(){
+// void main(){
 
-    Status currentStatus = Status.approved;
+//     Status currentStatus = Status.approved;
 
-    if (currentStatus == Status.approved) {
-        print("อนุมัติ")
-    } else {
-        print("ไม่อนุมัติ");
-    }
-}
+//     if (currentStatus == Status.approved) {
+//         print("อนุมัติ")
+//     } else {
+//         print("ไม่อนุมัติ");
+//     }
+// }
 
 enum Animal{
     dog('หมา'),
